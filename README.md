@@ -1,6 +1,6 @@
 Hi! This is my first project!
 
-I am creating this project for Chowking Muntinlupa Bayan, which will be the beneficiary of this system. This project includes multiple modules that provide functionalities for both the inventory system and the point-of-sale system.
+I am creating this project for Chowking Branh, which will be the beneficiary of this system. This project includes multiple modules that provide functionalities for both the inventory system and the point-of-sale system.
 
 In the inventory system, a barcode scanner will be used. However, before utilizing the scanner, products or items must be registered in the system to ensure they are recognized.
 
